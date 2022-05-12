@@ -90,5 +90,5 @@
 - When we are lost, confused, or unsure, we generally look to others to see how they are acting for cues (social proof) for what we should be doing.
 - Social proof is one of the most influential ways that malicious parties are able to gain access to information or areas where they don't belong. 
 - To ensure that we aren't victims of social proofing, we simply need to follow what we know is right. Even if the individual claims that your friend has been previously contacted, stick with what you know is right, and the chances of being a victim lowers dramatically. 
-- [![social-proof example](https://i.imgur.com/VAhhS76.png)]
+- ![social-proof example](https://i.imgur.com/VAhhS76.png)
 ---
