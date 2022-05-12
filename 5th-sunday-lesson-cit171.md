@@ -20,6 +20,8 @@
 - These malicious individuals will seek to give "gifts" that the victim likes, ensuring that the target will grant the request with little to no thought.
 - If a gift is truly free, there should typically be no strings attached. 
 - A common tourist scam in France is where the scammer pretends to be a fashion designer, and as part of the scam, give you cheap clothing. Often times, this gift is not free, instead, the scammer will ask for something in return, mainly cash. Typically, the cash that's given by the victim to the scammer is worth more than the cheap clothing, leaving the victim with cheap, worthless clothing. [![paris-scam](https://i.imgur.com/yTY2j6B.jpg)](https://youtu.be/n3IX-e7s4z4)
+- **Challenge Question:**
+	- In JST, Matthew 6:14, it says, "And suffer us not to be led into temptation, but deliver us from evil." How might we not be led into the trap of reciprocity?
 ---
 
 ### Principle Two: Obligation
@@ -29,6 +31,8 @@
 - Social engineers and malicious individuals want you to play into these expected reactions. This means that something as simple as holding the door could be weaponized to gain entry into a space where an individual shouldn't be. 
 - While it might seem rude, we don't have obligations to strangers or individuals we don't know. Even the nicest stranger must go through the proper channels to enter a building. And a true gift is one that doesn't require reciprocation. 
 - ![obligation](https://i.imgur.com/R81Bzpj.png)
+- **Challenge Question:**
+	- How might the instruction from the Lord in Lev 18:30, be used as a way to protect us from social engineering attacks using obligations or social proof? How does living as a Latter-day Saint better protect us from these kind of attacks?
 ---
 
 ### Principle Three: Concession
@@ -43,6 +47,8 @@
 		- refuse to offer favors to strangers with potentially nefarious motivations
 		- refusing to grant access to our homes to strangers
 	- By creating hard guidelines, and sticking to them no matter what, we can better protect ourselves from falling victim to concessions which favor attackers.
+- **Challenge Question:**
+	-  In Moses 5:13, Satan uses the principle of concession to convince us into losing faith. In the following verse, the Holy Ghost is mentioned at a way to protect ourselves against those attacks. How might the Holy Ghost protect us from attacks?
 ---
 
 ### Principle Four: Scarcity
@@ -55,6 +61,8 @@
 		- Never give payment information out over the phone, even if the situation is "urgent" or the individual on the other side of the phone is threatening you with jail time.
 - Some more professional social engineers will use scarcity in the form of time. A great example of this:
 	- [![scarcity-vishing](https://i.imgur.com/ljWyvJV.jpg)](https://youtu.be/xuYoMs6CLEw)
+- **Challenge Question:**
+	-  
 --- 
 
 ### Principle Five: Authority
@@ -65,6 +73,8 @@
 - A video of scam center in action - notice how the scammer imitates a government agent in trying to gain information about the victim. 
 	- [![authority-scam](https://i.imgur.com/fTeOkVq.jpg)](https://youtu.be/jXRHb4sCM8c)
 	- ![authority-example](https://i.imgur.com/dSFtQTx.png)
+- **Challenge Question:**
+	- 
 
 ---
 
@@ -77,6 +87,8 @@
 - Typically as individuals, we view consistency as a sign of confidence and strength. We might comply with certain requests from scammers at first, but we have to draw a line on when to stop compling and recognize when 
 - Here is a great example of commitment and consistency in action
 	- [![consistency-video](https://i.imgur.com/96Val70.jpg)](https://youtu.be/Pd7x2bHVSAs)
+- **Challenge Question:**
+	- Elder Bednar said, "Simply saying prayers is quite a different thing from engaging in meaningful prayer. I expect that all of us already know that prayer is essential for our spiritual development and protection. But what we know is not always reflected in what we do. And even though we recognize the importance of prayer, all of us can improve the consistency and efficacy of our personal and family prayers." It might seem counterintuitive, but what are some consistent habits that could help protect us from attacks that prey upon our consistency & commitment?
 ---
 
 ### Prinicple Seven: Liking
@@ -84,6 +96,8 @@
 - ![liking-example](https://i.imgur.com/CyTsalT.png)
 - To help encourage this feeling, they look for ways to give a compliment and mirror body language and/or verbal cues to help the victim feel warm and fuzzy toward them.
 - Often times, the best way to counteract this type of approach is to always be cautious, and be weary of others who seem overly nice. 
+- **Challenge Question:**
+	- In Mosiah 11:7, it says, "Yea, and they also became idolatrous, because they were deceived by the vain and flattering words of the king and priests; for they did speak flattering things unto them." What are some methods in which we can protect ourselves from being decepted like the people of King Noah?
 ---
 
 ### Principle Eight: Social Proof
@@ -91,4 +105,6 @@
 - Social proof is one of the most influential ways that malicious parties are able to gain access to information or areas where they don't belong. 
 - To ensure that we aren't victims of social proofing, we simply need to follow what we know is right. Even if the individual claims that your friend has been previously contacted, stick with what you know is right, and the chances of being a victim lowers dramatically. 
 - ![social-proof example](https://i.imgur.com/VAhhS76.png)
+- **Challenge Question:**
+	- My last question hinges on 3 Nephi 4:10, in which it says, "But in this thing they were disappointed, for the Nephites did not fear them; but they did fear their God and did supplicate him for protection; therefore, when the armies of Giddianhi did rush upon them they were prepared to meet them; yea, in the strength of the Lord they did receive them." **What must we do to receive protection from God, and how do you think it relates to cybersecurity?** 
 ---
