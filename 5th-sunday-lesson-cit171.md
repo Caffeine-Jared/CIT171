@@ -48,7 +48,7 @@
 		- refusing to grant access to our homes to strangers
 	- By creating hard guidelines, and sticking to them no matter what, we can better protect ourselves from falling victim to concessions which favor attackers.
 - **Challenge Question:**
-	-  In Moses 5:13, Satan uses the principle of concession to convince us into losing faith. In the following verse, the Holy Ghost is mentioned at a way to protect ourselves against those attacks. How might the Holy Ghost protect us from attacks?
+	-  In Moses 5:13, Satan uses the principle of concession to convince us into losing faith. In the following verse, the Holy Ghost is mentioned at a way to protect ourselves against those attacks. How might the Holy Ghost protect us from attacks? 
 ---
 
 ### Principle Four: Scarcity
@@ -62,7 +62,7 @@
 - Some more professional social engineers will use scarcity in the form of time. A great example of this:
 	- [![scarcity-vishing](https://i.imgur.com/ljWyvJV.jpg)](https://youtu.be/xuYoMs6CLEw)
 - **Challenge Question:**
-	-  
+	-  In Romans 14:17, it says, "For the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost." When it comes to being susceptible to tactics such as scarcity, what are ways we can strengthen ourselves from become stronger against those tempatations?
 --- 
 
 ### Principle Five: Authority
@@ -74,7 +74,7 @@
 	- [![authority-scam](https://i.imgur.com/fTeOkVq.jpg)](https://youtu.be/jXRHb4sCM8c)
 	- ![authority-example](https://i.imgur.com/dSFtQTx.png)
 - **Challenge Question:**
-	- 
+	- In Num 14:9, it says, "...the Lord is with us: fear them not." If we have faith, how might we be strong in the face of those who threaten us, and deceive us? How can we ensure that we aren't deceived by those with fake authority?
 
 ---
 
